@@ -36,3 +36,7 @@ Timestamp,Account Number,Transaction Type,Amount,Related Account
 2026-06-13 12:26:51,1004,received_transfer,6789.0,1013
 2026-06-13 12:27:06,1013,withdraw,10999.0,
 2026-06-13 12:27:17,1013,undo_withdraw,10999.0,
+2026-06-13 13:17:28,1013,withdraw,4000.0,
+2026-06-13 13:17:42,1013,undo_withdraw,4000.0,
+2026-06-13 13:17:56,1013,deposit,1000.0,
+2026-06-13 13:18:10,1013,undo_deposit,1000.0,

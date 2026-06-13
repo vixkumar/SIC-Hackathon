@@ -292,6 +292,26 @@
                 "type": "undo_withdraw",
                 "amount": 10999.0,
                 "timestamp": "2026-06-13 12:27:17"
+            },
+            {
+                "type": "withdraw",
+                "amount": 4000.0,
+                "timestamp": "2026-06-13 13:17:28"
+            },
+            {
+                "type": "undo_withdraw",
+                "amount": 4000.0,
+                "timestamp": "2026-06-13 13:17:42"
+            },
+            {
+                "type": "deposit",
+                "amount": 1000.0,
+                "timestamp": "2026-06-13 13:17:56"
+            },
+            {
+                "type": "undo_deposit",
+                "amount": 1000.0,
+                "timestamp": "2026-06-13 13:18:10"
             }
         ]
     }
